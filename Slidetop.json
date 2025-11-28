@@ -1,0 +1,277 @@
+{
+  "categories": [
+    {
+      "id": "drathai_terbaru",
+      "title": "Drathai Terbaru",
+      "items": [
+        {
+          "id": "series_001",
+          "title": "Zootopia 2",
+          "description": "Musim ketiga anime Spy × Family kembali menyuguhkan petualangan keluarga Forger—Loid (penyamaran sebagai psikiater), Yor (pembunuh bayaran), Anya (telepati), dan anjing mereka, Bond (kemampuan prekognisi). Di sini, Loid harus menjalankan misi paling berat: berpura-pura jadi kepala keluarga ideal untuk menyusup ke sekolah elit demi mendekati target politik, sementara identitas masing-masing anggota keluarga tetap menjadi rahasia—kecuali oleh Anya. Musim ini menjanjikan porsi lebih dalam pada kisa...",
+          "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi64SBhh9dtAWuytjvY6VGFpXO1km_aNoIl-HeUCGcN7_rozR_JqFehNIdlxygpZGc6PBj7w4u37smX6o8fUdNGTG5uqBiVn5VAot7qA8cqlGEirRiYMmunwrDaCFqxX5OOZPMO_JviYY1voBbtKWiN14-4eU-2q1QBcWeUcdxn5DsBmOkk5lfePjM4S74/s1080/1ba47e3e962d88b9847bf85548848880.jpg",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYCP6ZUfF6NQeHu0eyQ0lN_FbUu_uirI4uY0Gz58ZE0WtZYJxLfTeXLzTA7w6f6-86Eb-2Lwto3MSj5RsUYruG3aGZl6w9VkcybL9TcXZSN1npNZWmA4E5kH7G50pLwALRzrkAbgHHSDe0m4CiCvYmT52NNq57Uin6lCasHWKnf8g_fdCxF17oX-HsEqc/s1232/zootopia_2__2025__logo_png__by_mintmovi3_djsl7w9-pre.png",
+          "backdrop": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ5t68b_lVGvey7dD4mx0wArsDH5_nlLs79oh4YMgGTnGsFWH7UexjnM868l7ah0Bh57bY5cjcSrYSLODdrLA8suGfW3_n07NdS0XhDBwLQ8u9tPvpJ3KPIkl4x-L1e0BXfOlEz3AW5yBR4IpOBMrZFYR5jZ41UlzQxwRIvXQVc49-mD2oc0mCg9EaAE/s2162/BeautyPlus-Image-Enhancer-1764321159364.jpg",
+          "rating": 8.7,
+          "year": 2025,
+          "genres": [
+            "Action",
+            "Childcare",
+            "Comedy"
+          ],
+          "type": "movie",
+          "streamUrl": "https://drive.usercontent.google.com/download?id=1oQ85DpyuIFMz0nxfqfN_aaKDwSlrqZhQ&export=download&confirm=t&uuid=624b1ac9-2139-4bc4-a56b-3321a48e3895"
+        },
+        {
+          "id": "series_118",
+          "title": "The Day of the Jackal (2024)",
+          "description": "Seorang pembunuh tunggal yang tak tertandingi dan sangat sulit ditangkap, Jackal, mencari nafkah dengan melakukan serangan dengan bayaran tertinggi. ",
+          "poster": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUvV086ZqtbHFoEcOi7AzQzrKrmEQcosH80_3B1VbCsIdsIXj-19YnTF4IzpHxSLY_0ldMXHIIBATUOx3i1H6B98wH4Cicpmlk_iUTmLrHpDK0orD8segDRoxCNQhbUk8DqfDg66gQIP9rqYcrx6VWd-ddCgbrzt33DUVcGibXnMCcrl-EKHFMQdp9Ut8/s1782/vT78INkwgYRtb3j1WmoXrEWoWAd.png",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg",
+          "rating": 7.8,
+          "year": 2024,
+          "genres": [
+            "Drama",
+            "Action",
+            "Crime"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/0059e5584587b8ed19e0d236b807cc41/24/480.m3u8"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/09703a946aa6aef8fbe585cf435e3009/24/480.m3u8"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/f144d21ed2f137783eeb578d2591166d/24/480.m3u8"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/86daebd1ef9be924eaee9c3b54942989/24/480.m3u8"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/3438a93abe7dc0a687f79946804e2f86/25/480.m3u8"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/cb12e8f586a7e7cf19defe6385fdec91/24/480.m3u8"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/7c7db4d5de6911de76bf3c8064a78603/24/480.m3u8"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/db4e738fd487df5cf35f46dbe1d9c3a0/24/480.m3u8"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/325985b3c815b2060b94476fa8f518e6/24/480.m3u8"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/a836be59c2003dbf43b533a27b9f1066/24/480.m3u8"
+            }
+          ]
+        },
+{
+          "id": "series_015",
+          "title": "Chad Powers (2025)",
+          "description": "Delapan tahun setelah kesalahan tak termaafkan menghancurkan karier sepak bola kampusnya yang menjanjikan, quarterback jagoan Russ Holliday mencoba menghidupkan kembali mimpinya dengan menyamar sebagai Chad Powers - seorang eksentrik berbakat yang berjalan ke South Georgia Catfish yang sedang kesulitan.",
+          "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9aRFi_p4ekgjmMbzlj3JvWZeWlmNhJgmr1yz4dn_3UvMzzu-N92_fZX39DLBp6Pw7c0iPCxt4c9WMEqGNmpiPrtXZ3eMtAgXfUHXZxlhcSwhN1EfAz2E8aIVqwhzjSPpZxkNr8Ng3aM0Cy84amF34ZSjNeJOADqog4VkAzEljKoZqhQbiv6mBYk08ckI/s1291/Picsart_25-11-28_17-33-21-585.png",
+         "backdrop": "https://image.tmdb.org/t/p/w1280/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+          "rating": 7.1,
+          "year": 2025,
+          "genres": [
+            "Comedy",
+            "Sport"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4Be2pySnxjEjw1BQ4OLxN2UmZscB56eA/34/480.m3u8"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4Ce2pySnxjEjw1BQ4OLxNxVGdock14dg/34/480.m3u8"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4De2pySnxjEjw1BQ4OLxMhBGQ-d0l8fw/34/480.m3u8"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4Ee2pySnxjEjw1BQ4OLxMmAzA-Jkt9Kw/34/480.m3u8"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4Fe2pySnxjEjw1BQ4OLxMmU2Rue0x-LQ/26/480.m3u8"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/IRAoKmgJGDYnIwRhMFU3Ky0WZH9oHAcoMT4TKW4Ge2pySnxjEjw1BQ4OLxMnAGA6IEoqeA/27/480.m3u8"
+            }
+          ]
+        },
+ {
+          "id": "series_013",
+          "title": "A Hundred Memories (2025)",
+          "description": "Kisah cinta pertama yang memilukan dari seorang pria yang ditakdirkan untuk menjadi nasib dua wanita yang menjadi pemandu bus di tahun 1980an, dan sebuah komedi melodrama tentang pemuda bersinar yang ditakdirkan untuk menjadi cemerlang.",
+          "poster": "https://image.tmdb.org/t/p/w500/nfObMZAXlAdeRzs4keu4HMWoBJT.jpg",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-1lxA_AtS8PM5oD26oQyx_0DA6yea0e58DA72p-3aSC4xQk84YJz9GpyJXnOG2gmbmb3RURn8rVTuK7j5Gr48Ay6kARpo03bV6mi_owNFAu4WvSHQoDA2nVWk68PaA36kOXzaBP5ZvASlpzwD3ghAkw1k7X5i224HAJffzOgaAcnYXsnEG1BB2x8tbLI/s1645/Picsart_25-11-28_17-17-55-295.png", 
+          "backdrop": "https://image.tmdb.org/t/p/w1280/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
+          "rating": 7.2,
+          "year": 2025,
+          "genres": [
+            "Drama",
+            "Comedy",
+            "History"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXhjd0lFdG8GMg4HfAkAHUlxf3QbRXgg/34/480.m3u8"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXtjd0lFdG8GMg4HfAkAHU4ve3xOTyR3/34/480.m3u8"
+            },
+            {
+              "episode": 3,
+              "title": "Episode 3",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXpjd0lFdG8GMg4HfAkAHUF6LXEfRHd1/34/480.m3u8"
+            },
+            {
+              "episode": 4,
+              "title": "Episode 4",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVX1jd0lFdG8GMg4HfAkAHRp_KCZIFnYm/34/480.m3u8"
+            },
+            {
+              "episode": 5,
+              "title": "Episode 5",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXxjd0lFdG8GMg4HfAkAHU4tfHNMQnJy/34/480.m3u8"
+            },
+            {
+              "episode": 6,
+              "title": "Episode 6",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVX9jd0lFdG8GMg4HfAkAHRwsLCNKQyVx/34/480.m3u8"
+            },
+            {
+              "episode": 7,
+              "title": "Episode 7",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVX5jd0lFdG8GMg4HfAkAHUl_fSFMTnhy/34/480.m3u8"
+            },
+            {
+              "episode": 8,
+              "title": "Episode 8",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXFjd0lFdG8ZMxgVbw4HcRl5diQfTyQ/34/480.m3u8"
+            },
+            {
+              "episode": 9,
+              "title": "Episode 9",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXBjd0lFdG8GMg4HfAkAHUx8fiMfRyMn/34/480.m3u8"
+            },
+            {
+              "episode": 10,
+              "title": "Episode 10",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXh-aEtHc3d8IAkBdBoHGid5didNFXQnaA/34/480.m3u8"
+            },
+            {
+              "episode": 11,
+              "title": "Episode 11",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXh_aEtHc3d8IAkBdBoHGictKCBKFHFwYA/26/480.m3u8"
+            },
+            {
+              "episode": 12,
+              "title": "Episode 12",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/Kg0nKjccE2wvNBojMVkzK28LLC82Fhlsc3wSPCpDOTwnVXh8aEtHc3d8IAkBdBoHGid7fiROEnF7Mw/26/480.m3u8"
+            }
+          ]
+        },
+{
+          "id": "series_017",
+          "title": "Doc (2025)",
+          "description": "Dr Amy Larsen harus menavigasi dunia asing setelah cedera otak menghapus delapan tahun terakhir hidupnya. ",
+          "poster": "https://image.tmdb.org/t/p/w500/hYHrPWM6qGq2XSbaWUONckBgUir.jpg",
+          "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheErt0dKGtO9zm7A9WARX37LQCXlBH8EENarvm2A_w6cJRK3cdkf72Ak1SxzEXA8cV6AoRIUUzqvSDGnBNEqXyC5GSm50vfUBJyhjCCApSTtlrYArEI2flKOywJsUuc9pj2xiA4RhUoEMz8p7evSX3hTisN0DoMjLFQHt32pxE9OHJ5VUB3hxZaEc-SCc/s1695/Picsart_25-11-28_17-20-16-392.png",
+          "backdrop": "https://image.tmdb.org/t/p/w1280/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+          "rating": 8.2,
+          "year": 2025,
+          "genres": [
+            "Drama"
+          ],
+          "type": "series",
+          "episodes": [
+            {
+              "episode": 1,
+              "title": "Episode 1",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/2fa8da570f153e02863f9d0f2995849a/26/480.m3u8"
+            },
+            {
+              "episode": 2,
+              "title": "Episode 2",
+              "duration": "24 min",
+              "streamUrl": "https://cloud.hownetwork.xyz/zzz/JhcqYzYcFjItP1p9blUmMTEXLStoS1pzcmNCYRR1FBwOJxERcx9OeCZjEio/25/480.m3u8"
+            }
+          ]
+        }
+]
+}
+]
+}
+       
